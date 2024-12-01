@@ -1,0 +1,133 @@
+.theori1 {
+    width: 100%;
+}
+
+.theori1 h1 {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+.theori1 p {
+    color: rgba(255, 128, 0, 1);
+    width: 50%;
+    text-align: center;
+    border: 1px;
+    padding-left: 25%;
+}
+
+.theory2 {
+    border: 5px;
+    width: 600px;
+    padding: 5px;
+    margin: 30px;
+
+}
+
+.theory2 h2 {
+    color: rgba(217, 174, 0, 1);
+    font-size: 30px;
+    width: 420px;
+    padding-right: 2%;
+    margin-right: 2%;
+}
+
+.theory2 p {
+    color: rgba(109, 129, 180, 1);
+    width: 420px;
+    text-align: left;
+}
+
+.theory2 img {
+    width: 420px;
+    border: 1px;
+}
+
+.theory3 {
+    border: solid 2px;
+    background-color: rgba(255, 206, 190, 1);
+    width: 800px;
+    text-align: center;
+    border-right:solid red;
+    border-bottom: solid red;
+    margin-left: 2%;
+}
+
+.theory3 h3 {
+    color: rgba(244, 78, 80, 1);
+    padding-top: 3%;
+    font-size: 24px;
+}
+
+.theory3 p {
+    color: rgba(139, 43, 44, 1);
+    width: 500px;
+    padding-left: 18%;
+
+}
+
+.theory3 img {
+    width: 700px;
+    height:400px;
+    padding-bottom: 7%;
+}
+.theory4{
+    width: 500px;
+    padding-top: 4%;
+}
+.theory4 h3{
+    font-size: 18px;
+    text-align: right;
+    color: rgba(71, 22, 228, 1);
+   
+}
+.theory4 p{
+    border: 2px solid rgba(255, 93, 163, 1);
+    background-color: rgba(255, 193, 227, 1);
+    width: 430px;
+    text-align: right;
+    padding: 3%;
+    margin-left: 7%;
+}
+.theory5{
+    width: 500px;
+    line-height: 1.6;
+    margin: 20px;
+
+}
+.theory5 h5{
+    color: black;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding-left: 15px;
+
+}
+.theory5 ul{
+    list-style: none;
+    padding-left: 0; 
+
+}
+.theory5 li{
+    position: relative; 
+    margin-bottom: 20px; 
+    padding-left: 40px;
+    color: rgba(194, 117, 18, 1) ;
+}
+li::before {
+    content: ""; 
+    position: absolute;
+    left: 0; 
+    top: 8px; 
+    width: 15px; 
+    height: 15px; 
+    background-color: black; 
+    border-radius: 50%; 
+    margin-top: 7%;
+}
+.theory5 img{
+    border: 10px;
+    width: 500px;
+    margin-top: 3%;
+    padding-bottom: 50px;
+}
+
